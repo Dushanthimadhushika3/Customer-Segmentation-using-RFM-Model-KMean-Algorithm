@@ -17,3 +17,5 @@ cluster 0 - Hibernating - low level of all R,F,M
 cluster 1 - Recent Customers - high R, middle F and low M
 cluster 2 - Potential Loyalist - middle level of all R,F,M
 cluster 3 - At Risk Customers - low R, high F,M
+
+There are a high number of Hibernating customers and a low number of Potential loyalist customers.
